@@ -1,6 +1,3 @@
-// pages/api/thumbnails.js
-// Proxy côté serveur pour contourner le CORS de l'API Roblox
-
 export default async function handler(req, res) {
   const { ids } = req.query
 
@@ -10,7 +7,7 @@ export default async function handler(req, res) {
 
   try {
     const response = await fetch(
-      `https://thumbnails.roblox.com/v1/games/icons?universeIds=${ids}&returnPolicy=PlaceHolder&size=150x150&format=Png&isCircular=false',
+      `https://thumbnails.roblox.com/v1/games/icons?universeIds=${ids}&returnPolicy=PlaceHolder&size=150x150&format=Png&isCircular=false`,
       {
         headers: {
           'Accept': 'application/json',
@@ -24,8 +21,6 @@ export default async function handler(req, res) {
     }
 
     const data = await response.json()
-
-    // Cache 1 heure
     res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate')
     return res.status(200).json(data)
   } catch (err) {
