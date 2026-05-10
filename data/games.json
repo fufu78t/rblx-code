@@ -1,0 +1,111 @@
+[
+  {
+    "nom": "Blox Fruits",
+    "slug": "blox-fruits",
+    "categorie": "Aventure",
+    "description": "Explore le monde de Blox Fruits, mange des fruits du démon et deviens le pirate le plus puissant !",
+    "image": "🍎",
+    "couleur": "#FF6B35",
+    "codes": [
+      { "code": "THEGREATACE", "reward": "20 minutes d'XP boost", "actif": true, "date": "2025-05" },
+      { "code": "BLUXXY", "reward": "20 minutes d'XP boost", "actif": true, "date": "2025-04" },
+      { "code": "FUDD10", "reward": "1 Beli", "actif": true, "date": "2025-03" },
+      { "code": "BIGNEWS", "reward": "20 minutes d'XP boost", "actif": true, "date": "2025-02" },
+      { "code": "SUB2GAMER", "reward": "20 minutes de stat reset", "actif": false, "date": "2024-12" },
+      { "code": "CHANDLER", "reward": "20 minutes d'XP boost", "actif": false, "date": "2024-10" }
+    ]
+  },
+  {
+    "nom": "Pet Simulator 99",
+    "slug": "pet-simulator-99",
+    "categorie": "Simulation",
+    "description": "Collecte des centaines de pets rares, améliore-les et deviens le meilleur dresseur de Roblox !",
+    "image": "🐾",
+    "couleur": "#7B2FBE",
+    "codes": [
+      { "code": "PETS99LAUNCH", "reward": "Huge Cat exclusif", "actif": true, "date": "2025-05" },
+      { "code": "SUMMERBASH", "reward": "3x Lucky Boost (30 min)", "actif": true, "date": "2025-04" },
+      { "code": "BILLIONS", "reward": "1 Milliard de pièces", "actif": true, "date": "2025-03" },
+      { "code": "FREEGEMS", "reward": "500 Gemmes", "actif": false, "date": "2024-11" },
+      { "code": "NEWPETS", "reward": "Pet exclusif limité", "actif": false, "date": "2024-09" }
+    ]
+  },
+  {
+    "nom": "Shindo Life",
+    "slug": "shindo-life",
+    "categorie": "Action",
+    "description": "Un jeu ninja inspiré de l'univers Naruto avec des jutsu puissants et des villages à explorer.",
+    "image": "⚡",
+    "couleur": "#E63946",
+    "codes": [
+      { "code": "RELL10K", "reward": "60 RELL Coins", "actif": true, "date": "2025-05" },
+      { "code": "SHINDOLIFE", "reward": "100 RELL Coins", "actif": true, "date": "2025-04" },
+      { "code": "SHINOBI", "reward": "75 RELL Coins", "actif": true, "date": "2025-03" },
+      { "code": "NINJA2024", "reward": "50 RELL Coins", "actif": false, "date": "2024-12" }
+    ]
+  },
+  {
+    "nom": "Anime Adventures",
+    "slug": "anime-adventures",
+    "categorie": "Tower Defense",
+    "description": "Place des unités inspirées de tes animes préférés pour défendre ta base contre des vagues d'ennemis.",
+    "image": "🗡️",
+    "couleur": "#06D6A0",
+    "codes": [
+      { "code": "ANIMEADV1M", "reward": "500 Gemmes + boost XP", "actif": true, "date": "2025-05" },
+      { "code": "UPDATEV9", "reward": "300 Gemmes", "actif": true, "date": "2025-04" },
+      { "code": "RELEASE", "reward": "200 Gemmes", "actif": false, "date": "2024-08" }
+    ]
+  },
+  {
+    "nom": "Brookhaven RP",
+    "slug": "brookhaven-rp",
+    "categorie": "Roleplay",
+    "description": "Vis ta meilleure vie dans la ville de Brookhaven : achète des maisons, conduis des voitures, crée ton histoire.",
+    "image": "🏡",
+    "couleur": "#F4A261",
+    "codes": [
+      { "code": "BROOKLOVE", "reward": "Voiture exclusive", "actif": true, "date": "2025-04" },
+      { "code": "TOWNUPDATE", "reward": "Tenue de ville rare", "actif": true, "date": "2025-03" },
+      { "code": "BKHVIP", "reward": "Accès VIP 24h", "actif": false, "date": "2024-10" }
+    ]
+  },
+  {
+    "nom": "Adopt Me!",
+    "slug": "adopt-me",
+    "categorie": "Simulation",
+    "description": "Adopte des animaux légendaires, décore ta maison et échange avec d'autres joueurs du monde entier.",
+    "image": "🐣",
+    "couleur": "#FFD166",
+    "codes": [
+      { "code": "SUMMERPETS", "reward": "Egg exclusif d'été", "actif": true, "date": "2025-05" },
+      { "code": "ADOPTME5B", "reward": "Pet brillant aléatoire", "actif": true, "date": "2025-04" },
+      { "code": "HALLOWEEN23", "reward": "Pet Halloween limité", "actif": false, "date": "2023-10" }
+    ]
+  },
+  {
+    "nom": "Tower of Hell",
+    "slug": "tower-of-hell",
+    "categorie": "Obby",
+    "description": "Grimpe une tour générée aléatoirement sans checkpoint. Le jeu d'obstacle le plus difficile de Roblox.",
+    "image": "🔥",
+    "couleur": "#EF233C",
+    "codes": [
+      { "code": "TOHFREE", "reward": "Coins gratuits", "actif": true, "date": "2025-03" },
+      { "code": "TOWERKING", "reward": "Titre exclusif", "actif": false, "date": "2024-06" }
+    ]
+  },
+  {
+    "nom": "Driving Empire",
+    "slug": "driving-empire",
+    "categorie": "Course",
+    "description": "Conduis des voitures de rêve, participe à des courses et construis ton empire automobile.",
+    "image": "🚗",
+    "couleur": "#023E8A",
+    "codes": [
+      { "code": "DRIVINGV2", "reward": "50 000 Cash", "actif": true, "date": "2025-05" },
+      { "code": "SPEEDBOOST", "reward": "Boost de vitesse 1h", "actif": true, "date": "2025-04" },
+      { "code": "RACEDAY", "reward": "Voiture exclusive", "actif": false, "date": "2024-11" }
+    ]
+  }
+]

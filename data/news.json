@@ -1,0 +1,74 @@
+[
+  {
+    "id": "blox-fruits-update-25",
+    "titre": "Blox Fruits — Update 25 : Le Monde des Dieux",
+    "jeu": "Blox Fruits",
+    "jeuSlug": "blox-fruits",
+    "categorie": "mise-a-jour",
+    "date": "2025-05-08",
+    "resume": "La plus grande mise à jour de l'histoire du jeu arrive avec une nouvelle île céleste, 3 nouveaux fruits légendaires et un système de guildes entièrement revu.",
+    "contenu": "L'Update 25 de Blox Fruits est enfin là ! Au programme : une nouvelle zone 'Le Monde des Dieux' accessible au niveau 2500+, trois nouveaux fruits du démon (Tonnerre, Fantôme Ultime, Cosmos), un système de guildes avec raids partagés, et une refonte complète du PvP. Deux nouveaux codes ont été ajoutés pour célébrer le lancement.",
+    "image": "🍎",
+    "tags": ["update", "nouveau contenu", "fruits"]
+  },
+  {
+    "id": "pet-sim-99-saison-4",
+    "titre": "Pet Simulator 99 — Saison 4 : L'Ère Cosmique",
+    "jeu": "Pet Simulator 99",
+    "jeuSlug": "pet-simulator-99",
+    "categorie": "mise-a-jour",
+    "date": "2025-05-05",
+    "resume": "La Saison 4 introduit des pets cosmiques ultra-rares, un nouveau monde spatial et un système d'évolution inédit.",
+    "contenu": "Big Games lance la Saison 4 de Pet Simulator 99 avec un thème spatial. De nouveaux pets cosmiques brillants sont disponibles dans les Cosmic Eggs, un nouveau monde 'Galaxia' est accessible aux joueurs rang 500+, et un système d'évolution permet de faire monter ses pets en puissance. Un Huge Alien exclusif est disponible pendant 2 semaines seulement.",
+    "image": "🐾",
+    "tags": ["saison", "pets", "nouveau monde"]
+  },
+  {
+    "id": "anime-adventures-hero-clash",
+    "titre": "Anime Adventures — Hero Clash Event",
+    "jeu": "Anime Adventures",
+    "jeuSlug": "anime-adventures",
+    "categorie": "evenement",
+    "date": "2025-05-01",
+    "resume": "Un événement crossover géant avec 12 nouveaux personnages légendaires issus des animes les plus populaires.",
+    "contenu": "L'événement Hero Clash d'Anime Adventures réunit des personnages de One Piece, Naruto, Dragon Ball, Demon Slayer et Jujutsu Kaisen dans un mode de jeu exclusif. 12 nouvelles unités légendaires sont à débloquer, dont 3 secrètes. L'event se termine le 31 mai.",
+    "image": "🗡️",
+    "tags": ["event", "crossover", "légendaires"]
+  },
+  {
+    "id": "brookhaven-spring-update",
+    "titre": "Brookhaven RP — Spring City Update",
+    "jeu": "Brookhaven RP",
+    "jeuSlug": "brookhaven-rp",
+    "categorie": "mise-a-jour",
+    "date": "2025-04-28",
+    "resume": "Un nouveau quartier printanier, 30 nouvelles maisons et un système météo dynamique débarquent à Brookhaven.",
+    "contenu": "La Spring City Update de Brookhaven ajoute un nouveau quartier résidentiel printanier avec 30 nouvelles maisons personnalisables, un parc central, un système météo dynamique (pluie, soleil, vent), et 15 nouvelles tenues saisonnières. Le mode roleplay enrichi permet maintenant d'ouvrir son propre commerce.",
+    "image": "🏡",
+    "tags": ["update", "nouveau quartier", "météo"]
+  },
+  {
+    "id": "adopt-me-summer-egg",
+    "titre": "Adopt Me! — Summer Egg 2025 disponible",
+    "jeu": "Adopt Me!",
+    "jeuSlug": "adopt-me",
+    "categorie": "evenement",
+    "date": "2025-04-25",
+    "resume": "Le Summer Egg 2025 est en vente avec 5 nouveaux animaux dont 2 légendaires jamais vus.",
+    "contenu": "Adopt Me lance son Summer Egg 2025 avec 5 nouveaux animaux : le Flamant Rose Brillant (légendaire), le Requin Néon (légendaire), la Tortue de Mer (ultra-rare), le Dauphin (rare) et le Crabe des Sables (peu commun). L'egg est disponible jusqu'au 30 juin dans la boutique principale.",
+    "image": "🐣",
+    "tags": ["egg", "été", "légendaires"]
+  },
+  {
+    "id": "shindo-life-village-update",
+    "titre": "Shindo Life — Nouveau Village : Tenshiko",
+    "jeu": "Shindo Life",
+    "jeuSlug": "shindo-life",
+    "categorie": "mise-a-jour",
+    "date": "2025-04-20",
+    "resume": "Un nouveau village céleste Tenshiko avec 4 nouvelles techniques de ninja et un boss légendaire.",
+    "contenu": "RELL Games ajoute le village Tenshiko, un village céleste flottant dans les nuages. Ce village propose 4 nouvelles techniques exclusives basées sur les éléments air et lumière, un boss légendaire 'Tenshi-Kami' à combattre en raid, et un nouveau rang de ninja à atteindre. 3 nouveaux codes RELL Coins ont été publiés pour l'occasion.",
+    "image": "⚡",
+    "tags": ["village", "boss", "techniques"]
+  }
+]
